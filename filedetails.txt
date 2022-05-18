@@ -1,0 +1,1 @@
+Topic: s3rashu:Partion: 1 Message:b'project'Topic: s3rashu:Partion: 2 Message:b''Topic: s3rashu:Partion: 2 Message:b''Topic: s3rashu:Partion: 0 Message:b''Topic: s3rashu:Partion: 0 Message:b'keyss.txt sucessfully uploaded'
